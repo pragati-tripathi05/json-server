@@ -1,0 +1,17 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"Abc",
+            "status": true,
+            "price":1234
+        }
+    ],
+    "todo": [
+        {
+            "id":"1",
+            "title":"task1",
+            "status": "incomplete"
+        }
+    ]
+}
