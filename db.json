@@ -1,8 +1,22 @@
 {
+    "students": [
+        {
+          "id": 1,
+          "stuname": "Sonam",
+          "email": "sonam@example.com"
+        },
+        {
+          "id": 2,
+          "stuname": "Sumit",
+          "email": "sumit@example.com"
+        }
+      ],
     "products": [
         {
             "id": 1,
             "title": "Abc",
+            "category":"electronics",
+            "brand":"LG",
             "status": true,
             "price": 1234
         }
@@ -57,7 +71,7 @@
         }
     ],
     "transactions": [],
-    "data": [
+    "books": [
         {
             "id": 1,
             "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
