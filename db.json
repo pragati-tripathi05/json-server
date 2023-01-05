@@ -11,6 +11,33 @@
     },
     {
       "id": 2,
+      "brand": "BMW",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 10000,
+      "Description": "BMW with all original documents",
+      "Price": 850000
+    },
+    {
+      "id": 3,
+      "brand": "Tesla",
+			"type":"MANUAL",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tesla Nexon with all original documents",
+      "Price": 1000000
+    },
+    {
+      "id": 4,
+      "brand": "Volkswagen",
+			"type":"AMT",
+      "year": 2022,
+      "kms": 8000,
+      "Description": "Volkswagen with all original documents",
+      "Price": 790000
+    },
+    {
+      "id": 5,
       "brand": "Tata",
 			"type":"AMT",
       "year": 2017,
