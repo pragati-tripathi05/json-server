@@ -21,12 +21,32 @@
             "price": 1234
         }
     ],
-    "todo": [
-        {
-            "id": "1",
-            "title": "task1",
-            "status": "incomplete"
-        }
+    "todos": [
+      {
+        "title": "task1",
+        "completed": false,
+        "id": 1
+      },
+      {
+        "title": "this is my new todo",
+        "completed": false,
+        "id": 2
+      },
+      {
+        "title": "ok todo",
+        "completed": true,
+        "id": 3
+      },
+      {
+        "title": "react",
+        "completed": true,
+        "id": 4
+      },
+      {
+        "title": "dsa",
+        "completed": false,
+        "id": 5
+      }
     ],
     "users": [
     {
