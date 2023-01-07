@@ -1,5 +1,21 @@
 {
-  "masaiUsers": [],
+  "masaiUsers": [
+    {
+      "id":1,
+      "email":"user1@mail.com",
+      "password":"12345",
+      "tasks":[
+        {
+          "id":1,
+          "task":"Attend Mock"
+        },
+        {
+          "id":2,
+          "task":"Attend interviews"
+        }
+      ]
+    }
+  ],
   "cars": [
     {
       "id": 1,
