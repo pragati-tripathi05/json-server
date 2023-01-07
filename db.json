@@ -2,7 +2,7 @@
   "masaiUsers": [
     {
       "id":1,
-      "name": "username",
+      "name": "Jackson",
       "email":"user1@mail.com",
       "password":"12345",
       "tasks":[
