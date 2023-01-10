@@ -13,6 +13,13 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Pluto",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Male"
     }
   ],
   "masaiUsers": [
