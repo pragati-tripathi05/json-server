@@ -17,7 +17,8 @@
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
       "likes": 3
-    }],
+    }
+  ],
   "dogs": [
     {
       "id": 1,
@@ -43,19 +44,19 @@
   ],
   "masaiUsers": [
     {
-      "id":1,
+      "id": 1,
       "name": "Jackson",
-      "email":"user1@mail.com",
-      "password":"12345",
-      "confirmpassword":"12345",
-      "tasks":[
+      "email": "user1@mail.com",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "tasks": [
         {
-          "id":1,
-          "task":"Attend Mock"
+          "id": 1,
+          "task": "Attend Mock"
         },
         {
-          "id":2,
-          "task":"Attend interviews"
+          "id": 2,
+          "task": "Attend interviews"
         }
       ]
     }
@@ -64,7 +65,7 @@
     {
       "id": 1,
       "brand": "Tata",
-			"type":"Manual",
+      "type": "Manual",
       "year": 2019,
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
@@ -73,7 +74,7 @@
     {
       "id": 2,
       "brand": "BMW",
-			"type":"AMT",
+      "type": "AMT",
       "year": 2017,
       "kms": 10000,
       "Description": "BMW with all original documents",
@@ -82,7 +83,7 @@
     {
       "id": 3,
       "brand": "Tesla",
-			"type":"MANUAL",
+      "type": "MANUAL",
       "year": 2017,
       "kms": 8000,
       "Description": "Tesla Nexon with all original documents",
@@ -91,7 +92,7 @@
     {
       "id": 4,
       "brand": "Volkswagen",
-			"type":"AMT",
+      "type": "AMT",
       "year": 2022,
       "kms": 8000,
       "Description": "Volkswagen with all original documents",
@@ -100,79 +101,94 @@
     {
       "id": 5,
       "brand": "Tata",
-			"type":"AMT",
+      "type": "AMT",
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
   ],
-    "students": [
-        {
-          "id": 1,
-          "stuname": "Sonam",
-          "email": "sonam@example.com"
-        },
-        {
-          "id": 2,
-          "stuname": "Sumit",
-          "email": "sumit@example.com"
-        }
-      ],
-    "products": [
-        {
-            "id": 1,
-            "title": "Abc",
-            "category":"electronics",
-            "brand":"LG",
-            "status": true,
-            "price": 1234
-        }
-    ],
-    "todos": [
-      {
-        "title": "task1",
-        "completed": false,
-        "id": 1
-      },
-      {
-        "title": "this is my new todo",
-        "completed": false,
-        "id": 2
-      },
-      {
-        "title": "ok todo",
-        "completed": true,
-        "id": 3
-      },
-      {
-        "title": "react",
-        "completed": true,
-        "id": 4
-      },
-      {
-        "title": "dsa",
-        "completed": false,
-        "id": 5
-      }
-    ],
-    "users":[
-      {
-        "id":1,
-        "username":"Qwerty",
-        "avatar":"https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-380-456332-512.png",
-        "email":"qwerty@gmail.com",
-        "password":"qwerty"
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Sonam",
+      "email": "sonam@example.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Sumit",
+      "email": "sumit@example.com"
     }
-    ],
-    "old_users": [
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Abc",
+      "category": "electronics",
+      "brand": "LG",
+      "status": true,
+      "price": 1234
+    }
+  ],
+  "todos": [
+    {
+      "title": "task1",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "this is my new todo",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "ok todo",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "react",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "dsa",
+      "completed": false,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Qwerty",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-380-456332-512.png",
+      "email": "qwerty@gmail.com",
+      "password": "qwerty"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "username": "Qwerty",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
+    }
+  ],
+  "old_users": [
     {
       "name": "Mohd Shami",
       "username": "mohdshami",
       "email": "shami@gmail.com",
       "phone": "7896547896",
       "id": 1,
-      "status": "active" 
+      "status": "active"
     },
     {
       "name": "Shikhar Dhawan",
@@ -199,63 +215,63 @@
       "status": "active"
     }
   ],
-    "accounts": [
-        {
-            "id": 1,
-            "name": "xyz",
-            "roll": 909
-        },
-        {
-            "id": 1,
-            "name": "xyz",
-            "roll": 909
-        }
-    ],
-    "transactions": [],
-    "books": [
-        {
-            "id": 1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-        },
-        {
-            "id": 2,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 4",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1499,
-            "borrowed": false
-        },
-        {
-            "id": 3,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 2",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
-        },
-        {
-            "id": 4,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter ",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1999,
-            "borrowed": false
-        }
-    ]
+  "accounts": [
+    {
+      "id": 1,
+      "name": "xyz",
+      "roll": 909
+    },
+    {
+      "id": 1,
+      "name": "xyz",
+      "roll": 909
+    }
+  ],
+  "transactions": [],
+  "books": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 3",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1000,
+      "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 4",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1499,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 2",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter ",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1999,
+      "borrowed": false
+    }
+  ]
 }
