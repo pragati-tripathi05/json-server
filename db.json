@@ -7,6 +7,13 @@
       "password": "qwerty"
     }
   ],
+  "buy":[
+    {
+      "id": 1,
+      "quantity": 7,
+      "company_name": "Tata"
+    }
+  ],
   "companies":[
     {
       "id" : 1,
