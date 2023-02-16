@@ -1,4 +1,12 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "username": "Qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "qwerty"
+    }
+  ],
   "companies":[
     {
       "id" : 1,
@@ -179,14 +187,7 @@
       "id": 5
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "username": "Qwerty",
-      "email": "qwerty@gmail.com",
-      "password": "qwerty"
-    }
-  ],
+  
   "blogs": [
     {
       "id": 1,
