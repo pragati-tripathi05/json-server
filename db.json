@@ -97,31 +97,7 @@
       "id": 8
     },
     {
-      "city": "Pune",
-      "company": "Tata",
-      "contract": "full time",
-      "language": "C++",
-      "level": "Senior",
-      "location": "India",
-      "position": "FullStack Developer",
-      "postedAt": "2023-02-16",
-      "role": "FullStack",
-      "id": 9
-    },
-    {
-      "id": 10,
-      "company": "Ellette",
-      "postedAt": "2021-03-30",
-      "city": "Gangtok",
-      "location": "American Samoa",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "position": " Backend Developer",
-      "language": "Java"
-    },
-    {
-      "id": 11,
+      "id": 9,
       "company": "Sony",
       "postedAt": "2021-03-30",
       "city": "Gangtok",
